@@ -30,7 +30,7 @@ detcçao de problemas comuns
 sugestao de fluxo e prioridades
 aprendizado com as suas correçoes e relatorio de revisao sempre com decisao final do tecnico
 
-## fase plataforma integrada
+## fase 4 plataforma integrada
 receber casos do dentista 
 organiza arquivos e identifica o tipo de trabalho 
 distribui prioridades 
