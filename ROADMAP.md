@@ -30,3 +30,15 @@ detcçao de problemas comuns
 sugestao de fluxo e prioridades
 aprendizado com as suas correçoes e relatorio de revisao sempre com decisao final do tecnico
 
+## fase plataforma integrada
+receber casos do dentista 
+organiza arquivos e identifica o tipo de trabalho 
+distribui prioridades 
+integrada produçao 
+impressao e fresagem 
+atualiza status automaticamente 
+comunica o dentista 
+gera indicadores e historico completo 
+centralizar todo o fluxo do laboratorio numa plataforma inteligente 
+reduzindo tarefas repetitivas e destacando o trabalho tecnico
+
