@@ -1,7 +1,16 @@
 # ROUDMAP-UM Dental AI
 
 Este documento descreve a evoluçao do projeto desde a primeira versao ate a plataforma completa de ia para laboratorios de protese
-##Fundaçao
+## modolos do sistema 
+### produtividade pessoal
+agenda individual
+tarefas pessoais e do laboratorio 
+metas
+lembretes inteligentes 
+blocos de foco e pausa 
+notas rapidas 
+
+## Fundaçao
 Recebimento automatico de casos.
 Organizaçao de arquivos.
 Identificaçao do tipo de trabalho.
