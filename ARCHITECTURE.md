@@ -221,3 +221,24 @@ Proteger os dados do UM Dental AI contra perdas, falhas ou interrupçoes, garant
 -Maior confiança no armazenamento dos dados 
 -Preservaçao do historico dos casos e das configuracoes do sistema
 -Reduçao do impacto de  exclusoes acidentais ou arquivo corrompidos 
+
+## Modulos da IA
+### modulo 1
+recepçao de casos
+
+### modulo 2
+analise inteligente 
+
+### modulo 3 
+base de conhecimento
+
+### modulo 4 
+assistente de produçao
+
+### modulo 5 
+revisao inteligente
+
+### modulo 6 
+aprendizado controlado
+
+
